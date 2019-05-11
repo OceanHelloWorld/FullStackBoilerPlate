@@ -1,17 +1,17 @@
-# FullStackBoilerPlate
+# FullStackBoilerPlate  
 
 
 # Direction to Use
 
-npm i
+npm i  
 
-**if mySQL not install, run following**
-brew update
-brew install mysql
-brew services start mysql
+**if mySQL not install, run following**  
+brew update  
+brew install mysql  
+brew services start mysql  
 
-npm run start
-npm run react-dev
+npm run start  
+npm run react-dev  
 
-go here:
-[http://localhost:4000/](http://localhost:4000/)
+go here:  
+[http://localhost:4000/](http://localhost:4000/)  
